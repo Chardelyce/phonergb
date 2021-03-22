@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Phone RGB</string>
+    <string name="exit">Exit</string>
+    <string name="button_power">Power</string>
+    <string name="start">Start</string>
+    <string name="button_up">Up</string>
+    <string name="button_down">Down</string>
+    <string name="button_brightness_up">Br Up</string>
+    <string name="button_brightness_down">Br Dn</string>
+    <string name="button_DIY_1">DIY1</string>
+    <string name="button_DIY_2">DIY2</string>
+    <string name="button_DIY_3">DIY3</string>
+    <string name="button_DIY_4">DIY4</string>
+    <string name="button_DIY_5">DIY5</string>
+    <string name="button_DIY_6">DIY6</string>
+    <string name="button_jump_3">Jump 3</string>
+    <string name="button_jump_7">Jump 7</string>
+    <string name="button_fade_3">Fade 3</string>
+    <string name="button_fade_7">Fade 7</string>
+    <string name="button_auto">Auto</string>
+    <string name="button_flash">Flash</string>
+    <string name="button_quick">Quick</string>
+    <string name="button_slow">Slow</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="white">white</string>
+    <string name="blue">blue</string>
+    <string name="logo">logo</string>
+
+<string name="media">Follow us on social media !</string>
+    <string name="button_empty" />
+</resources>
